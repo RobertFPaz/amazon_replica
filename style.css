@@ -1,0 +1,25 @@
+.signin-wrapper{
+    width: 440px;
+    margin: auto;
+}
+form{
+    min-width: 420px;
+}
+.links{
+    width: 300px;
+    margin: auto;
+}
+.gray{
+    color: gray;
+    display: inline-block;
+}
+.line{
+    display: inline-block;
+    width: 140px;
+}
+.line-container{
+    width: 440px;
+}
+.btn-light{
+    background-color: lightgray;
+}
